@@ -1,7 +1,7 @@
 ## 🖖 Hello, I am Gustavo!
 
 
-I am a **full stack developer**, with **5+ years** of experience. Currently I live in Urubici, Brazil and I am studying **Computer Science** since I was **13 years old**.
+I am a **full stack developer**, with **5+ years** of experience. Currently I live in Urubici, Brazil and currently studying **Computer Science** at **UFSC**.
 
  My favorite programming languages are:
   - Python
